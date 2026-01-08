@@ -1,0 +1,7 @@
+board_size,strategy,attempt,step_count,factor,success,time
+7,StochasticGreed,1,25,0.7,True,0.02202414199996383
+7,StochasticGreed,1,19,0.7,True,0.02788022799995815
+7,StochasticGreed,1,336,0.7,True,0.6049954880000996
+5,StochasticGreed,1,2379,0.7,True,2.85805902300001
+5,StochasticGreed,1,2600,1.0,True,2.8992981310002506
+5,StochasticGreed,1,500,0.6,False,0.5775604489972466
